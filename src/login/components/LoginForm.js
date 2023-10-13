@@ -35,7 +35,7 @@ export default function LoginForm({ setSubmitted }) {
 					{error}
 				</div>
 			)}
-			<h1>Welcome Back</h1>
+			<h1>Welcome Back Spunkee</h1>
 			<div className="email-input">
 				<label htmlFor="email">Email</label>
 				<input
